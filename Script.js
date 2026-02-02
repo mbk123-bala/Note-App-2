@@ -5,7 +5,6 @@ const main = document.querySelector("#main");
 addBtn.addEventListener("click", function () {
     addNote();
 });
-
 // Save button function
 const saveNotes = () => {
 
